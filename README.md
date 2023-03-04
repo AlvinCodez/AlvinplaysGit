@@ -2,7 +2,7 @@
 - 👀 I’m interested in js, html, coding in 1 word 
 - 🌱 I’m currently learning py
 - 💞️ I’m looking to collaborate on none right now
-- 📫 How to reach me, reach me on discord Alvinplays#5884
+- 📫 How to reach me, reach me on discord Alvinplays#5884 or twitter AlvinplaysTwit
 
 <!---
 AlvinplaysGit/AlvinplaysGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
